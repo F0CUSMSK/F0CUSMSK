@@ -1,0 +1,165 @@
+{
+  "username": "F0CUSMSK",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1789949626464_0"
+    },
+    {
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "HACK THE PLANET",
+        "fontSize": 14,
+        "asciiLines": [
+          "██    ██  ▄████▄   ▄████▄  ██    ██      ████████ ██    ██ ████████      ███████▄ ██        ▄████▄  ██    ██ ████████ ████████",
+          "██    ██ ██    ██ ██    ▀▀ ██  ▄█▀          ██    ██    ██ ██            ██    ██ ██       ██    ██ ███   ██ ██          ██   ",
+          "████████ ████████ ██       █████▄           ██    ████████ ██████        ███████▀ ██       ████████ ██▀█  ██ ██████      ██   ",
+          "██    ██ ██    ██ ██    ▄▄ ██  ▀██▄         ██    ██    ██ ██            ██       ██       ██    ██ ██ ▀█ ██ ██          ██   ",
+          "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
+        ],
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1789949626464_1"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 0,
+        "y": 242
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "showEmail": false,
+        "labelColor": "#ffa657",
+        "animationType": "typewriter",
+        "animationPreviewKey": 6,
+        "headerColor": "#c5ff4a",
+        "dotColor": "#484f58",
+        "valueColor": "#f0f6fc",
+        "statsValColor": "#79c0ff",
+        "dividerColor": "#30363d",
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1789949626464_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 538
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1789949626464_3"
+    },
+    {
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 694
+      },
+      "size": {
+        "width": 800,
+        "height": 24
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1789949626464_4"
+    },
+    {
+      "instanceId": "widget_1789951305213",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 730
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657",
+        "textColor": "#0d1117",
+        "paletteIndex": 0,
+        "palette": [
+          "#161b22",
+          "#0e4429",
+          "#006d32",
+          "#26a641",
+          "#39d353",
+          "#69f0a0"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0f0a",
+    "textColor": "#00ff41",
+    "accentColor": "#00ff41",
+    "borderColor": "#1a3a1a",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "hacker"
+  },
+  "templateId": "hacker",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1789956903485_gyxwu",
+    "updatedAt": "2026-09-21T02:15:04.830Z"
+  }
+}
