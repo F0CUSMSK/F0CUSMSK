@@ -14,7 +14,8 @@
       },
       "config": {
         "animationType": "typewriter",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -43,7 +44,8 @@
           "██    ██ ██    ██  ▀████▀  ██    ██         ██    ██    ██ ████████      ██       ████████ ██    ██ ██   ███ ████████    ██   "
         ],
         "animationType": "typewriter",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -71,7 +73,8 @@
         "valueColor": "#f0f6fc",
         "statsValColor": "#79c0ff",
         "dividerColor": "#30363d",
-        "customTitle": ""
+        "customTitle": "",
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -90,8 +93,9 @@
         "height": 160
       },
       "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationType": "slide-down",
+        "animationPreviewKey": 7,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -114,35 +118,6 @@
       "visible": true,
       "zIndex": 5,
       "instanceId": "widget_1789949626464_4"
-    },
-    {
-      "instanceId": "widget_1789951305213",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 0,
-        "y": 730
-      },
-      "size": {
-        "width": 780,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffa657",
-        "textColor": "#0d1117",
-        "paletteIndex": 0,
-        "palette": [
-          "#161b22",
-          "#0e4429",
-          "#006d32",
-          "#26a641",
-          "#39d353",
-          "#69f0a0"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -159,7 +134,7 @@
   "templateId": "hacker",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789956903485_gyxwu",
-    "updatedAt": "2026-09-21T02:15:04.830Z"
+    "revision": "rev_1789957022054_ww6x1",
+    "updatedAt": "2026-09-21T02:17:03.144Z"
   }
 }
