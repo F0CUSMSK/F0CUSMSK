@@ -15,7 +15,7 @@
       "config": {
         "animationType": "typewriter",
         "animationPreviewKey": 1,
-        "backgroundColor": "#060606"
+        "backgroundColor": "#0B0E14"
       },
       "locked": false,
       "visible": true,
@@ -45,7 +45,7 @@
         ],
         "animationType": "typewriter",
         "animationPreviewKey": 1,
-        "backgroundColor": "#060606"
+        "backgroundColor": "#0B0E14"
       },
       "locked": false,
       "visible": true,
@@ -74,7 +74,7 @@
         "statsValColor": "#79c0ff",
         "dividerColor": "#30363d",
         "customTitle": "",
-        "backgroundColor": "#060606"
+        "backgroundColor": "#0B0E14"
       },
       "locked": false,
       "visible": true,
@@ -95,7 +95,7 @@
       "config": {
         "animationType": "slide-down",
         "animationPreviewKey": 7,
-        "backgroundColor": "#060606"
+        "backgroundColor": "#0B0E14"
       },
       "locked": false,
       "visible": true,
@@ -121,7 +121,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "#0B0E14",
     "textColor": "#00ff41",
     "accentColor": "#00ff41",
     "borderColor": "#1a3a1a",
@@ -134,7 +134,7 @@
   "templateId": "hacker",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789957091485_qor4g",
-    "updatedAt": "2026-09-21T02:18:12.961Z"
+    "revision": "rev_1789957244286_5qk3g",
+    "updatedAt": "2026-09-21T02:20:45.415Z"
   }
 }
